@@ -1,7 +1,7 @@
 # Manipulate-COCO-dataset
 Explore COCO dataset and manipulate elements in the context of semantic segmentation
 
-This notebook explores the COCO (Common Objects in Context) image dataset and can provide helpers functions for Semantic Image Segmentation in Python.
+This notebook explores the COCO (Common Objects in Context) image dataset and can provide helpers functions for Semantic Image Segmentation in Python. It uses the initial tools and approach described in two publications from Viraf Patrawala. For the originals, you can visit his github repo [here](https://github.com/virafpatrawala/COCO-Semantic-Segmentation).
 
 “COCO is a large-scale object detection, segmentation, and captioning dataset.”
 
@@ -13,7 +13,7 @@ Visit [](http://cocodataset.org/) for more information on COCO, including for th
 
 ## Requirements
 - download COCO API from [here](https://github.com/cocodataset/cocoapi). This package provides Matlab, Python, and Lua APIs that assists in loading, parsing, and visualizing the annotations in COCO. Select yours and replicate the speficic API folder into your working folder.
-- download COCO dataset from [here](https://cocodataset.org/#download). I use the 2017 train/Val/test image sets as well as 2017 Trai,/Val annotations in this notebook. A lighter alternative exists with the 2014. Beware that the dataset is extremely large (over 24 Gb of data).
+- download COCO dataset from [here](https://cocodataset.org/#download). I used the 2017 train/Val/test image sets as well as 2017 Train/Val annotations in this notebook. A lighter alternative exists with the 2014. Beware that the dataset is extremely large (over 24Gb of data).
 
 ## Folder structure
 I used this folder structure which you can eventually replicate. My working drive where to put the notebook is the top folder.
