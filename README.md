@@ -1,7 +1,7 @@
 # Manipulate-COCO-dataset
 Explore COCO dataset and manipulate elements in the context of semantic segmentation
 
-This notebook explores the COCO (Common Objects in Context) image dataset and can provide helpers functions for Semantic Image Segmentation in Python. It uses the initial tools and approach described in two publications from Viraf Patrawala. For the originals, you can visit his github repo [here](https://github.com/virafpatrawala/COCO-Semantic-Segmentation).
+This notebook explores the COCO (Common Objects in Context) image dataset and can provide helpers functions for Semantic Image Segmentation in Python. It uses the initial tools and approach described in two publications from Viraf Patrawala. For the originals, you can visit his github repo [here](https://github.com/virafpatrawala/COCO-Semantic-Segmentation). You will also find links to his excellent COCO walk-through papers.
 
 “COCO is a large-scale object detection, segmentation, and captioning dataset.”
 
